@@ -9,5 +9,5 @@ Demo aplikasi👇
 🌐 https://izfan.netlify.app
 
 
-[instagran]: https://instagram.com/sandhikagalih?utm_medium=copy_link
+[instagram]: https://instagram.com/sandhikagalih?utm_medium=copy_link
 [youtube] : https://youtube.com/c/WebProgrammingUNPAS
