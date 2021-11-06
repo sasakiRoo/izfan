@@ -9,6 +9,6 @@ Demo aplikasi👇
 🌐 https://izfan.netlify.app
 
 
-[sg-ig]: https://instagram.com/sandhikagalih?utm_medium=copy_link
+[Sandhika Galih]: https://instagram.com/sandhikagalih?utm_medium=copy_link
 <br/>
 [wpu] : https://youtube.com/c/WebProgrammingUNPAS
